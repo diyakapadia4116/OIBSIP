@@ -43,8 +43,6 @@ Feature Engineering
 Model Training
       ↓
 Model Evaluation
-      ↓
-Interactive Streamlit Dashboard
 ```
 
 ---
@@ -109,15 +107,15 @@ All datasets were used strictly for educational and internship learning purposes
 ```text
 OIBSIP/
 │
-├── Task1_Iris_Classification
+├── Task_1_Iris-Classification
 │
-├── Task2_Unemployment_Analysis
+├── Task_2_Unemployment_Analysis
 │
-├── Task3_Car_Price_Prediction
+├── Task_3_Car_Prediction_ML
 │
-├── Task4_Email_Spam_Detection
+├── Task_4_Email_Spam_Detection
 │
-├── Task5_Sales_Prediction
+├── Task_5_SalesPredictionDasboard
 │
 └── README.md
 ```
@@ -320,7 +318,6 @@ Predict future product sales based on TV, Radio, and Newspaper advertising inves
 7. Model Training
 8. Model Evaluation
 9. Dashboard Development
-10. Deployment Preparation
 ```
 
 ---
@@ -387,7 +384,7 @@ These screenshots demonstrate the complete workflow from raw data analysis to fi
 Clone repository:
 
 ```bash
-git clone https://github.com/panthinipatel5/OIBSIP.git
+git clone https://github.com/diyakapadia4116/OIBSIP.git
 ```
 
 Move into folder:
